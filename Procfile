@@ -1,1 +1,1 @@
-worker: python almaz_shop_tjbot.py
+worker: python almaz_shop_tjbot
